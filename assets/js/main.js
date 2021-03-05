@@ -18,7 +18,7 @@ do {
 } while (i < 100);
 
 
-// ESEGUO CON IL CIFLO FOR - BONUS
+// ESEGUO CON IL CICLO FOR - BONUS
 
 var numeri = [];
 
