@@ -38,8 +38,5 @@ for (var i = 1; i < 100 + 1; i++) {
   } //Ai numeri non multipli di 3 / 5 stampiamo solo il nome
     else {
     document.getElementById('for-bonus').innerHTML += "<li>" + numeri + "</li>"
-
   }
-
-
 }
